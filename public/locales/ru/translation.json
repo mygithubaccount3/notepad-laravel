@@ -1,0 +1,61 @@
+{
+    "breadcrumbs": {
+        "note_list": "Список заметок",
+        "note_new": "Новая заметка",
+        "note_edit": "Изменить заметку"
+    },
+    "navbar": {
+        "log_in": "Войти",
+        "log_out": "Выйти"
+    },
+    "searchbar_placeholder": "Поиск...",
+    "table_header": {
+        "title": "Заголовок",
+        "note": "Заметка",
+        "visibility": "Видимость",
+        "category": "Категория",
+        "action": "Действие"
+    },
+    "log_in_page_title": "Пожалуйста, войдите",
+    "email_field_name": "Электронная почта",
+    "pass_field_name": "Пароль",
+    "log_in_btn_value": "Войти",
+    "sign_up_question": "Нет аккаунта?",
+    "sign_up_link_value": "Зарегистрироваться",
+    "sign_up_page_title": "Пожалуйста, зарегистрируйтесь",
+    "username_field_name": "Имя пользователя",
+    "sign_up_btn_value": "Регистрация",
+    "log_in_question": "Уже есть аккаунт?",
+    "log_in_link_value": "Войти",
+    "invitation": "Вам предоставлен доступ к приватной заметке",
+    "invitation_link_value": "Смотреть",
+    "note": {
+        "edit": "Изменить",
+        "remove": "Удалить"
+    },
+    "note_edit_page_title": "Добавление / изменение заметки",
+    "note_edit_title_field_name": "Заголовок",
+    "note_edit_text_field_name": "Текст",
+    "visibility_field_default_value": "Пожалуйста, выберите",
+    "visibility_field_public_value": "Публичный",
+    "visibility_field_private_value": "Приватный",
+    "share_with_field_name": "Поделиться с",
+    "create_note_btn_value": "Добавить",
+    "update_note_btn_value": "Изменить",
+    "cancellation_link_value": "Отмена",
+    "note_page_title": "Подробности заметки",
+    "note_author": "Автор",
+    "paginator_first_page_link_value": "Первая",
+    "paginator_last_page_link_value": "Последняя",
+    "language": {
+        "english": "Английский",
+        "russian": "Русский"
+    },
+    "categories": {
+        "all": "Все",
+        "general": "Общие",
+        "sport": "Спорт",
+        "work": "Работа",
+        "relax": "Отдых"
+    }
+}

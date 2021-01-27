@@ -1,0 +1,61 @@
+{
+    "breadcrumbs": {
+        "note_list": "List of Notes",
+        "note_new": "New Note",
+        "note_edit": "Edit Note"
+    },
+    "navbar": {
+        "log_in": "Log in",
+        "log_out": "Log out"
+    },
+    "searchbar_placeholder": "Search...",
+    "table_header": {
+        "title": "Title",
+        "note": "Note",
+        "visibility": "Visibility",
+        "category": "Category",
+        "action": "Action"
+    },
+    "log_in_page_title": "Please, log in",
+    "email_field_name": "Email",
+    "pass_field_name": "Password",
+    "log_in_btn_value": "Log in",
+    "sign_up_question": "Don't have an account?",
+    "sign_up_link_value": "Sign up",
+    "sign_up_page_title": "Please, sign up",
+    "username_field_name": "Username",
+    "sign_up_btn_value": "Sign up",
+    "log_in_question": "Already have an account?",
+    "log_in_link_value": "Sign in",
+    "invitation": "You are invited to get an access to a private note",
+    "invitation_link_value": "Click",
+    "note": {
+        "edit": "Edit",
+        "remove": "Remove"
+    },
+    "note_edit_page_title": "Creating / Editing a Note",
+    "note_edit_title_field_name": "Title",
+    "note_edit_text_field_name": "Text",
+    "visibility_field_default_value": "Please choose an option",
+    "visibility_field_public_value": "Public",
+    "visibility_field_private_value": "Private",
+    "share_with_field_name": "Share with",
+    "create_note_btn_value": "Add",
+    "update_note_btn_value": "Update",
+    "cancellation_link_value": "Cancel",
+    "note_page_title": "Note Details",
+    "note_author": "Author",
+    "paginator_first_page_link_value": "First",
+    "paginator_last_page_link_value": "Last",
+    "language": {
+        "english": "English",
+        "russian": "Russian"
+    },
+    "categories": {
+        "all": "All",
+        "general": "General",
+        "sport": "Sport",
+        "work": "Work",
+        "relax": "Relax"
+    }
+}
